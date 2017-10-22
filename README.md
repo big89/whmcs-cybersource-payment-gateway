@@ -15,7 +15,7 @@ Payment Gateway modules allow you to integrate payment solutions with the WHMCS 
 
 ## Setup
 
-Begin by activating the payment gateway under Setup > Payments > Payment Gateways and choose Checkout Finland from the Available Gateways dropdown.
+Begin by activating the payment gateway under Setup > Payments > Payment Gateways and choose CyberSource from the Available Gateways dropdown.
 
 
 For integration with your WHMCS, Contact us : bhagwansahane89@gmail.com
